@@ -1,4 +1,4 @@
-# cdk.dev - Cloud Development Kit (CDK)
+# cdk.dev - A Hub for the Cloud Development Kit (CDK)
 
 This is the place to bring up and discuss ideas, plan the next steps and provide feedback.
 
