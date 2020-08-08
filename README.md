@@ -1,4 +1,4 @@
-# cdk.dev - A Hub for the Cloud Development Kit (CDK)
+# cdk.dev - The Cloud Development Kit (CDK) Ecosystem Hub
 
 This is a community driven project for the Cloud Development Kit (CDK) and will cover the entire CDK ecosystem:
 
@@ -19,3 +19,7 @@ We build a dedicated hub for people interested in the CDK ecosystem.
 - Provide examples and howtos
 - Provide a space to discuss and exchange ideas
 - Provide helpful tools
+
+## Website Repo
+
+- https://github.com/cdk-dev/website
